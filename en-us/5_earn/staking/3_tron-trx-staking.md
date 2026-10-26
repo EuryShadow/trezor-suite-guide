@@ -1,19 +1,22 @@
 # Tron (TRX) staking
 
-Tron uses delegated proof of stake. TRX holders vote by staking their TRX: the more you stake, the more votes you have.&#x20;
+Staking on Tron works through voting. You freeze some of your TRX, which gives you votes, and cast them for a representative of your choice. In return, the representative shares part of their rewards with you.
 
-Every six hours the votes are counted, and the 27 candidates with the most votes produce the blocks until the next count, adding new transactions roughly every three seconds. Voters can earn a share of the rewards their chosen Super Representatives receive.
+You can start staking TRX from the **Earn** dashboard in Trezor Suite.
 
-Tron staking is available on Trezor Model T, Safe 3, Safe 5, and Safe 7.
+#### Why stake TRX
 
-1. Click on **Earn** in the sidebar menu.
-2. Find your Tron account in the staking list and click **Stake now**.
-3. Enter the amount you want to stake; then select the **Resource** to earn (bandwidth or energy).
-4. Click **Continue**, confirm the address on your Trezor, and **Hold to confirm** the transaction summary.
-5. Then press **Freeze** in Trezor Suite.
-6. Use the drop-down menu to select a **representative,** then select **Continue.**
-7. Click the checkbox to confirm you have **read & acknowledged** the representative’s Terms of Service, then press **Confirm.**
-8. On your Trezor, confirm the address and number of votes, then **Hold to confirm.**
-9. Once the transaction is signed, click **Vote** in Trezor Suite.
+- **Earn rewards** – your votes earn rewards over time.
+- **Lower transaction costs** – frozen TRX gives you bandwidth or energy, which you can use to pay for transactions.
+- **Support the network** – your votes help choose who runs Tron.
+- **Confirm on your Trezor** – every staking action is confirmed on your device.
 
-> 💡 Learn more about [Staking Tron (TRX) in Trezor Suite](https://trezor.io/guides/sending-receiving-staking-funds/staking-assets-in-trezor-suite/staking-tron-trx-in-trezor-suite) on the Trezor knowledge base
+#### Key points
+
+- **Minimum amount** – you can stake from 1 TRX.
+- **You keep ownership** – only your votes are delegated, your TRX stays yours.
+- **Claiming rewards** – rewards are not added automatically. You claim them in Trezor Suite.
+- **Waiting times** – after you unstake, your TRX is available to withdraw after 14 days.
+- **Supported devices** – available on Trezor Model T, Safe 3, Safe 5 and Safe 7.
+
+> 💡 For a step-by-step guide to staking, voting and unstaking, see [Staking Tron (TRX) in Trezor Suite](https://trezor.io/guides/sending-receiving-staking-funds/staking-assets-in-trezor-suite/staking-tron-trx-in-trezor-suite)

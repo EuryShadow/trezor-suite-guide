@@ -1,27 +1,21 @@
 # Ethereum (ETH) staking
 
-Stake your ETH in Trezor Suite and earn rewards for helping validate the Ethereum network. Trezor Suite uses Everstake as the staking provider. Rewards are automatically compounded into your position.
+Staking ETH means adding it to a staking pool together with ETH from other users. The pool earns rewards from the Ethereum network, and each user gets a share based on how much they put in. In Trezor Suite, the pool is run by Everstake.
 
-ETH is available on all Trezor devices.
+You can start staking ETH from the **Earn** dashboard in Trezor Suite.
 
-1. Select your Ethereum account in the left sidebar.
-2. Open the **Staking** tab and click **Start staking**.
-3. Read the staking summary and click **Continue**.
-4. Read the Everstake consent screen and click **Confirm**.
-5. Enter the amount of ETH you want to stake and click **Continue**.
-6. Check the entry period box and click **Confirm & stake**.
-7. Confirm the transaction on your Trezor device.
+#### Why stake ETH
 
-Your ETH enters the Everstake pool after the transaction confirms. If others are entering and exiting the pool at the same time, entry is usually instant; otherwise it can take much longer. You can track the status in the **Staking** tab.
+- **Earn rewards** – staked ETH earns rewards over time.
+- **Support the network** – staked ETH helps secure Ethereum.
+- **No technical setup** – Everstake runs the staking infrastructure.
+- **Confirm on your Trezor** – every staking action is confirmed on your device.
 
-#### Unstaking and claiming
+#### Key points
 
-To move your ETH and rewards back to your Trezor:&#x20;
+- **Minimum amount** – you can stake from 0.01 ETH.
+- **Automatic compounding** – rewards are added to your staked balance.
+- **Waiting times** – staking and unstaking go through a queue. This can be instant or take several days, depending on network demand.
+- **Supported devices** – available on all Trezor devices.
 
-1. In the Ethereum **Staking** tab click **Unstake to claim**.&#x20;
-2. Set the amount of ETH you want to unstake, set a custom fee if you want one, then click **Unstake**.
-3. Use your Trezor to confirm you want to unstake your ETH, then confirm the gas fee.&#x20;
-4. In Trezor Suite, click **Unstake**.
-5. Once unstaking finishes, click **Claim** to receive your funds instantly.
-
-> 💡 Learn more about [Staking Ethereum (ETH) in Trezor Suite](https://trezor.io/guides/sending-receiving-staking-funds/staking-assets-in-trezor-suite/staking-ethereum-eth-in-trezor-suite) on the Trezor knowledge base
+> 💡 For a step-by-step guide to staking, unstaking and claiming, see [Staking Ethereum (ETH) in Trezor Suite](https://trezor.io/guides/sending-receiving-staking-funds/staking-assets-in-trezor-suite/staking-ethereum-eth-in-trezor-suite)
